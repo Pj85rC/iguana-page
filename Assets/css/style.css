@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Raleway, sans-serif;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+header {
+  width: 100vw;
+  height: 73px;
+}
+
+.title {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 500;
+  padding: 10px 0;
+}
+
+.bg-header {
+  text-align: center;
+  background-image: url("../img/bg-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+.container-features {
+  width: 75%;
+  padding: 50px 0;
+  margin: 0 auto;
+}
+
+.iguana-txt,
+.iguana1-img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.iguana-txt {
+  font-size: 16px;
+  font-weight: 300;
+  width: 50%;
+}
+
+.txt1 {
+  margin-bottom: 1rem;
+}
+
+.img1 {
+  width: 24vw;
+  padding: 0px 50px;
+}
+
+.icons {
+  background: #1e1a13;
+  padding: 4.5rem 0;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.container-icons article {
+  display: inline-block;
+}
+
+.container-icons {
+  margin: 0 auto;
+  width: 75%;
+}
+
+.container-icons i {
+  color: #ffffff;
+}
+
+.icon {
+  width: 30%;
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.icon p {
+  font-size: 24px;
+  font-weight: 300;
+  padding-top: 1rem;
+}
+
+.triada {
+  display: inline-block;
+  width: 30%;
+  margin: 0 0.5rem;
+}
+
+.gallery {
+  width: 75%;
+  margin: 0 auto;
+  padding: 6rem 0;
+}
+
+.triada img {
+  width: 100%;
+  height: 200px;
+}
+
+.iguana-texto {
+  text-align: left;
+  padding: 3% 50% 10% 15%;
+}
+
+.iguana1-imagen {
+  display: inline-block;
+  width: 30%;
+  height: 30%;
+  margin: 0;
+}
+
+footer {
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+  background-color: #1e1a13;
+  padding: 3rem 0;
+}
